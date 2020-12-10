@@ -2,7 +2,7 @@ function getFirstSelector(selector){
   return document.getElementsByTagName('div')[0].innerHTML;
 }
 
-function nestedTarget(selector){
+function nestedTarget(){
   return document.querySelector('#nested.target').innerHTML;
 }
 
