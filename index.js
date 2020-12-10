@@ -7,8 +7,8 @@ function nestedTarget(){
 }
 
 function deepestChild(){
-var mainnode = document.getElementById("grand-node")[0];
-var deepestnode = mainnode.children[1];
+var mainnode = document.getElementById("grand-node");
+var deepestnode = mainnode.children[0];
 
 }
 
