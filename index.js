@@ -7,7 +7,7 @@ function nestedTarget(){
 }
 
 function deepestChild(){
-var deepnode = document.getElementById("grand-node").querySelector('div'[5].innerHMTL);
+var deepnode = document.getElementById("grand-node").querySelector('div'[4].innerHMTL);
 
 }
 
