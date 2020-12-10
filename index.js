@@ -7,7 +7,7 @@ function nestedTarget(){
 }
 
 function deepestChild(){
-return document.getElementById("grand-node")
+return document.getElementById("grand-node").getElementByTagName("div.boo").
 }
 
 function increaseRankBy(n){
